@@ -8,7 +8,7 @@
         timestamp: new Date().toISOString()
     };
 
-    fetch('https://my-project-inGcloud-id.region-id.r.appspot.com/track', {
+    fetch('https://parisa-tracker.us-central1.r.appspot.com/track', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
