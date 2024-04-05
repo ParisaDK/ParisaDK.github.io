@@ -1,7 +1,7 @@
 # Web Tracker in Go
 
 
-##Introduction
+## Introduction
 The main purpose of this repository is to practice different aspects of the Go programming language. As a starting point, I am designing a website tracker that can be integrated into any website. This project serves as a real-world application of Go, providing me with hands-on experience in both frontend and backend development.
 
 ## Web Tracker Project
