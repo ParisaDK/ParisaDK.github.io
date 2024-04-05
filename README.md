@@ -1,4 +1,11 @@
-### Hi there 👋
+# Web Tracker in Go
+
+
+##Introduction
+The main purpose of this repository is to practice different aspects of the Go programming language. As a starting point, I am designing a website tracker that can be integrated into any website. This project serves as a real-world application of Go, providing me with hands-on experience in both frontend and backend development.
+
+## Web Tracker Project
+The web tracker is a tool I am developing to understand visitor interactions with web pages. It is designed to be easily deployable on various websites and aims to collect data in a respectful and privacy-conscious manner.
 
 <!--
 **ParisaDK/ParisaDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
